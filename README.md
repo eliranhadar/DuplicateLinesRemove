@@ -5,6 +5,7 @@ Remove Both Duplicate Lines From TXT File
 
 This project was written as a objective-c console application for OSX.
 
+
 1. Get the data from TXT1 and TXT2 then store it in arrays.
 
 2. Sort Array1 then Sort Array2 and delete Array2 value from Array1.
